@@ -75,3 +75,5 @@ python app.py
 
 ## 👨‍💻 Author
 **Muhammad Jibran** | *BS Software Engineering*
+## 👨‍💻 Co-Author
+**Muhammad Hamza** | *BS Software Engineering*
